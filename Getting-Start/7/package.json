@@ -1,0 +1,12 @@
+{
+  "name": "7",
+  "version": "1.0.0",
+  "description": "Program No 7\r Favotite Number : Store Your Favorite Number in A Variable\r  Then,using That Variable Create A Message That Reveals Your Favorite Number \r Print That Message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

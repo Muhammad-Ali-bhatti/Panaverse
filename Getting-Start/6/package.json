@@ -1,0 +1,12 @@
+{
+  "name": "6",
+  "version": "1.0.0",
+  "description": "Program No.6\r Write Addition, Multiplication, Subtraction, Division operation that each result in number 8.\r and enclose them in statement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

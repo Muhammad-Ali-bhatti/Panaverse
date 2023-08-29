@@ -1,0 +1,12 @@
+{
+  "name": "4",
+  "version": "1.0.0",
+  "description": "program 4\r Famous Quote 2 : Repeat Exercise 2 But This Time\r  Store The Famous Person Name In A Variable Called Famous_person. Then Compose Your Message And \r  Store It In A New Variable Called Message And Print It Out.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

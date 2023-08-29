@@ -1,0 +1,4 @@
+Program 5:
+
+Stripping Names: Store A Person Name Including Some WhiteSpaces Characters at the Beginning
+and of the end of the name And Print It Out  With And Without Spaces.

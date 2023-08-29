@@ -1,0 +1,12 @@
+{
+  "name": "9",
+  "version": "1.0.0",
+  "description": "Program No 10\r Store Names In Array Of Some Of Your Friends And Print Personalized To Each Of Them",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

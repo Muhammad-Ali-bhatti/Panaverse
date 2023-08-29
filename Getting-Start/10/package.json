@@ -1,0 +1,12 @@
+{
+  "name": "10",
+  "version": "1.0.0",
+  "description": "Program No.11\r Your Own Array : Think Of Your Own Favorite Mode Of Tranportaion ,\r such as a Motorcycle or a Car, and make a list that stores several examples \r Use Your List To print Series of Statements about these Items",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
