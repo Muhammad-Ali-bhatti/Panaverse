@@ -1,0 +1,12 @@
+{
+  "name": "16",
+  "version": "1.0.0",
+  "description": "Program No.16\r Dinner Guest: Working with one of the programs From Exercise 14 Throug 18, print a message \r indicating the number of people you are inviting to Dinner.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
