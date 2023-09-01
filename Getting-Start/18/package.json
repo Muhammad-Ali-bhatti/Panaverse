@@ -1,0 +1,12 @@
+{
+  "name": "18",
+  "version": "1.0.0",
+  "description": "Program No.18 \r They Think of Something you could store in a typeScript Object. Write a Program That \r Creates Object Containing These Items Favourite Places",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
