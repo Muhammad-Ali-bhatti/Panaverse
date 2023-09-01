@@ -1,0 +1,12 @@
+{
+  "name": "19",
+  "version": "1.0.0",
+  "description": "Program No.19\r T-shirts : Write a Function Called Make_shirt() that Accepts a size and the text Of a Message\r That that should be printed on the shirt . The Function Should Print a Sentence\r Summarizing the size of the shirt and the message printed on it. \r call the Function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
