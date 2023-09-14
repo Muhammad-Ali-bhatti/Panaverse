@@ -1,0 +1,14 @@
+In This Exercise I Will Be Learning What Is Console.log Function And Use Cases 
+And How To Use Them.
+
+Console.log Is a function Which Is Used To Print Message In Console.
+
+Console.log Can Be Used For Debugging Programs.
+
+console.log Can Be used For Verfiying Data
+
+console.log Can Be used For User Interaction 
+
+console.log Can Be used For Exceptional Handling 
+
+console.log Can Be used In Development Process
