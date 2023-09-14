@@ -2,12 +2,20 @@
 Panaverse BlockChain Course 
 
 
-Install node js
-Install typescript
-	 npm i -g typescript  // npm install -g typescript 
+<h2>* Install node js</h2>
+<h2>* Install typescript</h2>
 
-for project creation you have to write below command 	npm init -y  tsc --init
-npm init -y will create nodejs project with default settings and create package.json file
-tsc --init will initialize typescript in this project and create tsconfig.json file
+      npm i -g typescript  // npm install -g typescript 
+
+<h3> For project creation you have to write the below command 	npm init -y  tsc --init <br> 
+
+npm init -y will create nodejs project with default settings and create a package.json file <br>
+
+tsc --init will initialize typescript in this project and create tsconfig.json file <br>
+
 vs code install
-how to open vs code in particular directory
+
+How to open vs. code in a particular directory
+
+        code . 
+</h3>
