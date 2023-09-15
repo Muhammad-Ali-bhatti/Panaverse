@@ -1,0 +1,12 @@
+{
+  "name": "functions",
+  "version": "1.0.0",
+  "description": "Function Are Reusable Blocks Of Code.\r Functions are created to Write logic one and reuse them again and again",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

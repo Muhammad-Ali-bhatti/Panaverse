@@ -1,0 +1,12 @@
+{
+  "name": "arrays",
+  "version": "1.0.0",
+  "description": "* Array Are Collection Of Elements of same data type.\r * List Of Values \r * Each Value Has An Index.\r * In Array Index Start From 0.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
