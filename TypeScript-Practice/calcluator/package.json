@@ -1,0 +1,12 @@
+{
+  "name": "calcluator",
+  "version": "1.0.0",
+  "description": "in This Lesson We Will Be Creating Simple Calclutor App Using Html And Type script",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
