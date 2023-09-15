@@ -1,0 +1,12 @@
+{
+  "name": "userinputdisplay",
+  "version": "1.0.0",
+  "description": "In this Lesson We Will Be creating A Simple Html Page For Display And Taking user input and \r Displaying it On Web.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
